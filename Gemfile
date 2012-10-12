@@ -74,7 +74,7 @@ gem 'rails-i18n', :git => "https://github.com/svenfuchs/rails-i18n.git"
 # parsing
 
 gem 'nokogiri', '1.5.5'
-gem 'redcarpet', "2.1.1"
+gem 'redcarpet', "2.2.0"
 gem 'roxml', :git => 'https://github.com/Empact/roxml.git', :ref => '7ea9a9ffd2338aaef5b0'
 gem 'ruby-oembed', '0.8.7'
 
