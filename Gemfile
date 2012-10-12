@@ -44,7 +44,7 @@ end
 # configuration
 
 group :heroku do
-  gem 'unicorn', '4.3.1', :require => false
+  gem 'unicorn', '4.4.0', :require => false
 end
 
 # database
